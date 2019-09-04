@@ -1,62 +1,62 @@
 [
     {
         "id": 1,
-        "image": "../public/assets/images/artemis.jpg"
+        "image": "/assets/images/artemis.jpg"
     },
 
     {
         "id": 2,
-        "image": "../public/assets/images/jupiter.jpg"
+        "image": "/assets/images/jupiter.jpg"
     },
 
     {
         "id": 3,
-        "image": "../public/assets/images/luna.jpg"
+        "image": "/assets/images/luna.jpg"
     },
 
     {
         "id": 4,
-        "image": "../public/assets/images/mars.jpg"
+        "image": "/assets/images/mars.jpg"
     },
 
     {
         "id": 5,
-        "image": "../public/assets/images/mercury.jpg"
+        "image": "/assets/images/mercury.jpg"
     },
 
     {
         "id": 6,
-        "image": "../public/assets/images/moon.jpg"
+        "image": "/assets/images/moon.jpg"
     },
 
     {
         "id": 7,
-        "image": "../public/assets/images/neptune.jpg"
+        "image": "/assets/images/neptune.jpg"
     },
 
     {
         "id": 8,
-        "image": "../public/assets/images/pluto.jpg"
+        "image": "/assets/images/pluto.jpg"
     },
 
     {
         "id": 9,
-        "image": "../public/assets/images/saturn.jpg"
+        "image": "/assets/images/saturn.jpg"
     },
 
     {
         "id": 10,
-        "image": "../public/assets/images/tm.jpg"
+        "image": "/assets/images/tm.jpg"
     },
 
     {
         "id": 11,
-        "image": "../public/assets/images/uranus.jpg"
+        "image": "/assets/images/uranus.jpg"
     },
 
     {
         "id": 12,
-        "image": "../public/assets/images/venus.jpg"
+        "image": "/assets/images/venus.jpg"
     }
 
 ]
