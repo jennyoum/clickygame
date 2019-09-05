@@ -1,12 +1,16 @@
 import React from "react";
 import "./style.css";
 
-function ScoutsCard(props) {
+const ScoutsCard = props => {
   return (
-    <div className="col-md-3">
-    <div className="card">
-      <div className="img-container">
-        <img alt={props.name} src={props.image} />
+    <div>
+    <div className="row">
+      <div className="col-md-3">
+        <div className="card">
+          <div className="img-container">
+            <img className="card-img" alt={props.id} src={props.image} />
+          </div>
+        </div>
       </div>
     </div>
     </div>

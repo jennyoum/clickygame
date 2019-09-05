@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import ScoutsCard from "./components/ScoutsCard";
 import Wrapper from "./components/Wrapper";
-import nav from "./components/nav";
+import Nav from "./components/nav";
 import image from "./scouts.json";
 
 class App extends Component {
@@ -9,6 +9,8 @@ class App extends Component {
     images: image,
     score: 0,
     topScore: 0,
+    message: "",
+    clicked: []
   }
 
 clickedCards = id => {
@@ -18,16 +20,16 @@ clickedCards = id => {
 render() {
   return (
     <Wrapper>
-    <div>
-      <title>Choose your Sailor Scouts!</title>
+    <Nav>
+      Score:  {this.state.score}
+      Top Score:  {this.state.topScore}
+      Status:  {this.state.message}
+    </Nav>
     <div>
       {this.state.images.map(card => ( <div><img src={card.image} alt={card.id}></img></div>))}
     </div>
-    </div>
     </Wrapper>
   );
-
-
 };
 
 };
