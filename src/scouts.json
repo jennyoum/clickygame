@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "image": "/assets/images/artemis.jpg"
+        "image": "/assets/images/artemis2.jpg"
     },
 
     {
@@ -16,17 +16,17 @@
 
     {
         "id": 4,
-        "image": "/assets/images/mars.jpg"
+        "image": "/assets/images/marspose.jpg"
     },
 
     {
         "id": 5,
-        "image": "/assets/images/mercury.jpg"
+        "image": "/assets/images/mercurypose.jpg"
     },
 
     {
         "id": 6,
-        "image": "/assets/images/moon.jpg"
+        "image": "/assets/images/moonpose.jpg"
     },
 
     {
@@ -46,7 +46,7 @@
 
     {
         "id": 10,
-        "image": "/assets/images/tm.jpg"
+        "image": "/assets/images/tuxedomask.jpg"
     },
 
     {
